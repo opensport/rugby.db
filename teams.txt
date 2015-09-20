@@ -1,0 +1,32 @@
+##  Europe
+eng, England,  ENG, eng
+wal, Wales,    WAL, wal
+sco, Scotland, SCO, sco
+ire, Ireland,  IRE, ie
+fra, France,   FRA, fr
+ita, Italy,    ITA, it
+rom, Romania,  ROM, ro
+geo, Georgia,  GEO, ge
+
+##  North America
+can, Canada,        CAN, ca
+usa, United States, USA, us
+
+## South America
+uru, Uruguay,      URU, uy
+arg, Argentina,    ARG, ar
+
+##   Africa
+rsa, South Africa, RSA, za
+nam, Namibia,      NAM, na
+
+##   Asia
+jpn, Japan,       JPN, jp
+
+##   South Pacific / Oceania
+aus, Australia,   AUS, au
+nzl, New Zealand, NZL, nz
+sam, Samoa,       SAM, ws
+tga, Tonga,       TGA, to
+fji, Fiji,        FJI, fj
+
