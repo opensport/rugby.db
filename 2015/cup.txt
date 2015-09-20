@@ -1,0 +1,36 @@
+##################################
+#  World Cup 2015 England
+
+Group A  |  Australia     England    Wales     Fiji     Uruguay
+Group B  |  South Africa  Samoa      Scotland  Japan    United States
+Group C  |  New Zealand   Argentina  Tonga     Georgia  Namibia
+Group D  |  France        Ireland    Italy     Canada   Romania
+
+
+Matchday 1  |  Fri Sep/18 
+Matchday 2  |  Sat Sep/19
+Matchday 3  |  Sun Sep/20
+Matchday 4  |  Wed Sep/23
+Matchday 5  |  Thu Sep/24
+Matchday 6  |  Fri Sep/25
+Matchday 7  |  Sat Sep/26
+Matchday 8  |  Sun Sep/27
+Matchday 9  |  Tue Sep/29
+Matchday 10 |  Thu Oct/1
+Matchday 11 |  Fri Oct/2
+Matchday 12 |  Sat Oct/3
+Matchday 13 |  Sun Oct/4
+Matchday 14 |  Tue Oct/6
+Matchday 15 |  Wed Oct/7
+Matchday 16 |  Fri Oct/9
+Matchday 17 |  Sat Oct/10
+Matchday 18 |  Sun Oct/11
+
+
+(19) Quarter-finals         |  Sat Oct/17 - Sun Oct/18
+(20) Semi-finals            |  Sat Oct/24 - Sun Oct/25
+(21) Match for third place  |  Fri Oct/30
+(22) Final                  |  Sat Oct/31
+
+
+

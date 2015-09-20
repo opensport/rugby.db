@@ -1,5 +1,11 @@
 # Notes
 
+## Todos
+
+- in cup.txt  -> support Pool A, Pool B, Pool C, etc. e. g support Pool as alias for Group
+- in datafile -> football 'rugby.db'  -- fix: change football to rugby or sport ???
+
+
 ## Rugby World Cup 2015 England
 
 - [`rugbyworldcup.com`](http://www.rugbyworldcup.com)

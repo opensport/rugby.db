@@ -2,5 +2,6 @@
 # All fixtures / datasets
 
 rugby.db!/leagues
-rubby.db!/teams
+rugby.db!/teams
 
+rugby.db!/2015/cup

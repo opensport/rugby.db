@@ -1,0 +1,30 @@
+##################################
+#  World Cup 2015 England
+
+league: world
+season: 2015
+start_at: 2015-09-18
+
+
+20 teams:
+- England        ## Europe (8)
+- Wales
+- Scotland
+- Ireland
+- France
+- Italy
+- Romania
+- Georgia
+- Canada         ## North America (2)
+- United States
+- Uruguay        ## South America (2)
+- Argentina
+- South Africa   ## Africa (2)
+- Namibia
+- Japan          ## Asia (1)
+- Australia      ## South Pacific / Oceania (5)
+- New Zealand
+- Samoa
+- Tonga
+- Fiji
+
