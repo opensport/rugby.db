@@ -32,5 +32,16 @@ Matchday 18 |  Sun Oct/11
 (21) Match for third place  |  Fri Oct/30
 (22) Final                  |  Sat Oct/31
 
+Group A:
 
+(1)  Fri Sep/18   England   35-11   Fiji       @ Twickenham Stadium, London
+(7)  Sun Sep/20   Wales       v     Uruguay    @ Millennium Stadium, Cardiff
+(10) Wed Sep/23   Australia   v     Fiji       @ Millennium Stadium, Cardiff
+(16) Sat Sep/26   England     v     Wales      @ Twickenham Stadium, London
+(17) Sun Sep/27   Australia   v     Uruguay    @ Villa Park, Birmingham
+(21) Thu Oct/1    Wales       v     Fiji       @ Millennium Stadium, Cardiff
+(26) Sat Oct/3    England     v     Australia  @ Twickenham Stadium, London
+(30) Tue Oct/6    Fiji        v     Uruguay    @ Stadium mk, Milton Keynes
+(35) Sat Oct/10   Australia   v     Wales      @ Twickenham Stadium, London
+(36) Sat Oct/10   England     v     Uruguay    @ Manchester City Stadium, Manchester
 
