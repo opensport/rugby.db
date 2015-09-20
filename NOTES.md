@@ -2,9 +2,9 @@
 
 ## Rugby World Cup 2015 England
 
-- <www.rugbyworldcup.com>
+- [`rugbyworldcup.com`](http://www.rugbyworldcup.com)
 - Dates: 18 September - 31 October
-- Teams 20
+- Teams: 20
 
 ### Wikipedia
 
