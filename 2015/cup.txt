@@ -1,5 +1,5 @@
 ##################################
-#  World Cup 2015 England
+#  Rugby World Cup 2015 England
 
 Group A  |  Australia     England    Wales     Fiji     Uruguay
 Group B  |  South Africa  Samoa      Scotland  Japan    United States
@@ -34,8 +34,8 @@ Matchday 18 |  Sun Oct/11
 
 Group A:
 
-(1)  Fri Sep/18   England   35-11   Fiji       @ Twickenham Stadium, London
-(7)  Sun Sep/20   Wales       v     Uruguay    @ Millennium Stadium, Cardiff
+ (1) Fri Sep/18   England   35-11   Fiji       @ Twickenham Stadium, London
+ (7) Sun Sep/20   Wales       v     Uruguay    @ Millennium Stadium, Cardiff
 (10) Wed Sep/23   Australia   v     Fiji       @ Millennium Stadium, Cardiff
 (16) Sat Sep/26   England     v     Wales      @ Twickenham Stadium, London
 (17) Sun Sep/27   Australia   v     Uruguay    @ Villa Park, Birmingham
@@ -44,4 +44,60 @@ Group A:
 (30) Tue Oct/6    Fiji        v     Uruguay    @ Stadium mk, Milton Keynes
 (35) Sat Oct/10   Australia   v     Wales      @ Twickenham Stadium, London
 (36) Sat Oct/10   England     v     Uruguay    @ Manchester City Stadium, Manchester
+
+Group B:
+
+ (4) Sat Sep/19   South Africa  32-34   Japan          @ Brighton Community Stadium, Brighton
+ (6) Sun Sep/20   Samoa         25-16   United States  @ Brighton Community Stadium, Brighton
+ (9) Wed Sep/23   Scotland        v     Japan          @ Kingsholm, Gloucester
+(15) Sat Sep/26   South Africa    v     Samoa          @ Villa Park, Birmingham
+(18) Sun Sep/27   Scotland        v     United States  @ Elland Road, Leeds
+(24) Sat Oct/3    Samoa           v     Japan          @ Stadium mk, Milton Keynes
+(25) Sat Oct/3    South Africa    v     Scotland       @ St. James' Park, Newcastle
+(31) Wed Oct/7    South Africa    v     United States  @ Olympic Stadium, London
+(34) Sat Oct/10   Samoa           v     Scotland       @ St. James' Park, Newcastle
+(40) Sun Oct/11   United States   v     Japan          @ Kingsholm, Gloucester
+
+Group C:
+
+ (2) Sat Sep/19   Tonga       10-17   Georgia          @ Kingsholm, Gloucester
+ (8) Sun Sep/20   New Zealand   v     Argentina        @ Wembley Stadium, London
+(12) Thu Sep/24   New Zealand   v     Namibia          @ Olympic Stadium, London
+(13) Fri Sep/25   Argentina     v     Georgia          @ Kingsholm, Gloucester
+(20) Tue Sep/29   Tonga         v     Namibia          @ Sandy Park, Exeter
+(23) Fri Oct/2    New Zealand   v     Georgia          @ Millennium Stadium, Cardiff
+(27) Sun Oct/4    Argentina     v     Tonga            @ Leicester City Stadium, Leicester
+(32) Wed Oct/7    Namibia       v     Georgia          @ Sandy Park, Exeter
+(33) Fri Oct/9    New Zealand   v     Tonga            @ St. James' Park, Newcastle
+(37) Sun Oct/11   Argentina     v     Namibia          @ Leicester City Stadium, Leicester
+
+Group D:
+
+ (3) Sat Sep/19   Ireland   50-7    Canada           @ Millennium Stadium, Cardiff
+ (5) Sat Sep/19   France    32-10   Italy            @ Twickenham Stadium, London
+(11) Wed Sep/23   France      v     Romania          @ Olympic Stadium, London
+(14) Sat Sep/26   Italy       v     Canada           @ Elland Road, Leeds
+(19) Sun Sep/27   Ireland     v     Romania          @ Wembley Stadium, London
+(22) Thu Oct/1    France      v     Canada           @ Stadium mk, Milton Keynes
+(28) Sun Oct/4    Ireland     v     Italy            @ Olympic Stadium, London
+(29) Tue Oct/6    Canada      v     Romania          @ Leicester City Stadium, Leicester
+(38) Sun Oct/11   Italy       v     Romania          @ Sandy Park, Exeter
+(39) Sun Oct/11   France      v     Ireland          @ Millennium Stadium, Cardiff
+
+
+Quarter-finals
+## (41) Sat Oct/17   Winner of Pool B  v  Runner-up of Pool A   @ Twickenham Stadium, London
+## (42) Sat Oct/17   Winner of Pool C  v  Runner-up of Pool D   @ Millennium Stadium, Cardiff
+## (43) Sun Oct/18   Winner of Pool D  v  Runner-up of Pool C   @ Millennium Stadium, Cardiff
+## (44) Sun Oct/18   Winner of Pool A  v  Runner-up of Pool B   @ Twickenham Stadium, London
+
+Semi-finals
+## (45) Sat Oct/24   Winner of quarter-final 1  v  Winner of quarter-final 2  @ Twickenham Stadium, London
+## (46) Sun Oct/25   Winner of quarter-final 3  v  Winner of quarter-final 4  @ Twickenham Stadium, London
+
+Match for third place      ## Bronze final
+## (47) Fri Oct/30   Loser of semi-final 1  v  Loser of semi-final 2    @ Olympic Stadium, London
+
+Final
+## (48) Sat Oct/31   Winner of semi-final 1  v  Winner of semi-final 2   @ Twickenham Stadium, London
 

@@ -5,14 +5,14 @@ for use in any (programming) language e.g. uses plain text datasets.
 
 Tournaments include:
 
-- World Cup 2015 England (Sep/18 - Oct/31; 20 National Teams)
+- Rugby World Cup 2015 England (Sep/18 - Oct/31; 20 National Teams)
 
 
 Example:
 
 ```
 ##################################
-#  World Cup 2015 England
+#  Rugby World Cup 2015 England
 
 Pool A  |  Australia     England    Wales     Fiji     Uruguay
 Pool B  |  South Africa  Samoa      Scotland  Japan    United States
@@ -28,8 +28,8 @@ Matchday 3  |  Sun Sep/20
 
 Pool A:
 
-(1)  Fri Sep/18   England   35-11   Fiji       @ Twickenham Stadium, London
-(7)  Sun Sep/20   Wales       v     Uruguay    @ Millennium Stadium, Cardiff
+ (1) Fri Sep/18   England   35-11   Fiji       @ Twickenham Stadium, London
+ (7) Sun Sep/20   Wales       v     Uruguay    @ Millennium Stadium, Cardiff
 (10) Wed Sep/23   Australia   v     Fiji       @ Millennium Stadium, Cardiff
 (16) Sat Sep/26   England     v     Wales      @ Twickenham Stadium, London
 (17) Sun Sep/27   Australia   v     Uruguay    @ Villa Park, Birmingham
