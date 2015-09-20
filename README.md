@@ -1,11 +1,11 @@
-# Welcome to `rugby`
+# Welcome to `rugby.db`
 
 Free open public domain rugby database 'n' schema (`rugby.db`)
 for use in any (programming) language e.g. uses plain text datasets.
 
 Tournaments include:
 
-- World Cup 2015 England (Sep/18-Oct/31; 20 National Teams)
+- World Cup 2015 England (Sep/18 - Oct/31; 20 National Teams)
 
 
 Example:

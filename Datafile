@@ -1,0 +1,44 @@
+################################################
+# Datafile for Rugby World Cup
+#
+#  use (inside the rugby.db/ folder)
+#    $ sportdb build
+
+
+inline do
+  ## 20 countries
+  ##  Europe
+  Country.parse 'eng', 'England',  'ENG', '1 km²', '1'
+  Country.parse 'wal', 'Wales',    'WAL', '1 km²', '1'
+  Country.parse 'sco', 'Scotland', 'SCO', '1 km²', '1'
+  Country.parse 'ie', 'Ireland',  'IRE', '1 km²', '1'
+  Country.parse 'fr', 'France',   'FRA', '1 km²', '1'
+  Country.parse 'it', 'Italy',    'ITA', '1 km²', '1'
+  Country.parse 'ro', 'Romania',  'ROM', '1 km²', '1'
+  Country.parse 'ge', 'Georgia',  'GEO', '1 km²', '1'
+
+  ##  North America
+  Country.parse 'ca', 'Canada',        'CAN', '1 km²', '1'
+  Country.parse 'us', 'United States', 'USA', '1 km²', '1'
+
+  ## South America
+  Country.parse 'uy', 'Uruguay',      'URU', '1 km²', '1'
+  Country.parse 'ar', 'Argentina',    'ARG', '1 km²', '1'
+
+  ##   Africa
+  Country.parse 'za', 'South Africa', 'RSA', '1 km²', '1'
+  Country.parse 'na', 'Namibia',      'NAM', '1 km²', '1'
+
+  ##   Asia
+  Country.parse 'jp', 'Japan',       'JPN', '1 km²', '1'
+
+  ##   South Pacific / Oceania
+  Country.parse 'au', 'Australia',   'AUS', '1 km²', '1'
+  Country.parse 'nz', 'New Zealand', 'NZL', '1 km²', '1' 
+  Country.parse 'ws', 'Samoa',       'SAM', '1 km²', '1'
+  Country.parse 'to', 'Tonga',       'TGA', '1 km²', '1'
+  Country.parse 'fj', 'Fiji',        'FJI', '1 km²', '1'
+end 
+
+
+football 'rugby.db'     ## fix: change football to rugby or sport ???
